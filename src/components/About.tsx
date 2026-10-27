@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          A motivated Information Science and Engineering student at BIET Davanagere with hands-on experience in Full Stack Web Development and AIML Technologies, passionate about building intelligent systems, scalable cloud applications, and solving real-world challenges.
         </p>
       </div>
     </div>
